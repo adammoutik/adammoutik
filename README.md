@@ -29,9 +29,8 @@ languages: [Arabic (native), French (advanced), English (advanced)]
 ```
 
 - 🎓 Currently in my 2nd year of a **Master's in Data Science & AI**
-- 🛠️ Built a **data migration & incremental-sync pipeline** (~500K records → MongoDB) during my internship at **ONEE**
+- 🛠️ Built a **data migration & incremental-sync system** during my internship at **ONEE**
 - 🧠 Working with **ML/Deep Learning** (MLP neural nets, MCDM/TOPSIS hybrid models) for IoT security research
-- ☁️ AWS Cloud Foundations certified (AWS Academy Graduate)
 - 📫 Reach me at **adammoutik50@gmail.com**
 - 🔭 Actively looking for a **Data Engineering / Applied AI internship or PFE**
 
