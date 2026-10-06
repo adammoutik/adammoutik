@@ -23,7 +23,6 @@
 name: Adam Moutik
 role: Data Engineer (Junior) / Data & AI Engineer
 looking_for: "Internship / PFE in Data Engineering or Applied AI"
-recent_win: "Migrated ~500,000 records to MongoDB with an incremental sync pipeline @ ONEE"
 stack: [Python, SQL, Spark, Kafka, Hadoop, MongoDB, AWS, Power BI]
 languages: [Arabic (native), French (advanced), English (advanced)]
 ```
