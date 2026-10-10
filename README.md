@@ -23,12 +23,12 @@
 name: Adam Moutik
 role: Data Engineer (Junior) / Data & AI Engineer
 looking_for: "Internship / PFE in Data Engineering or Applied AI"
-stack: [Python, SQL, Spark, Kafka, Hadoop, MongoDB, AWS, Power BI]
+stack: [Python, SQL, Spark, Kafka, Hadoop, Airflow, dbt, PostgreSQL, MinIO, MongoDB, Docker, AWS, Power BI]
 languages: [Arabic (native), French (advanced), English (advanced)]
 ```
 
 - 🎓 Currently in my 2nd year of a **Master's in Data Science & AI**
-- 🛠️ Built a **data migration & incremental-sync system** during my internship at **ONEE**
+- 🛠️ Built an end-to-end **Data Lakehouse** (Medallion architecture, dbt, Airflow, MinIO) monitoring water reserves in the **Tensift basin, Morocco**
 - 🧠 Working with **ML/Deep Learning** (MLP neural nets, MCDM/TOPSIS hybrid models) for IoT security research
 - 📫 Reach me at **adammoutik50@gmail.com**
 - 🔭 Actively looking for a **Data Engineering / Applied AI internship or PFE**
@@ -38,7 +38,7 @@ languages: [Arabic (native), French (advanced), English (advanced)]
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,kafka,hadoop,aws,powerbi,git,postman,nestjs,react&perline=6" />
+  <img src="https://skillicons.dev/icons?i=py,java,mysql,postgres,mongodb,cassandra,kafka,docker,aws,git,postman,nestjs,react,express&perline=7" />
 </p>
 
 **Data Engineering & Big Data**
@@ -47,8 +47,17 @@ languages: [Arabic (native), French (advanced), English (advanced)]
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Apache Parquet](https://img.shields.io/badge/-Apache%20Parquet-50ABF1?style=flat-square&logo=apacheparquet&logoColor=white)
+
+**Orchestration & Analytics Engineering**
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/-dbt%20Core-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![MinIO](https://img.shields.io/badge/-MinIO%20(S3)-C72E49?style=flat-square&logo=minio&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 **Databases**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
 ![HBase](https://img.shields.io/badge/-HBase-000000?style=flat-square&logo=apache&logoColor=white)
@@ -60,9 +69,10 @@ languages: [Arabic (native), French (advanced), English (advanced)]
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning%20(MLP)-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![MCDM/TOPSIS](https://img.shields.io/badge/-MCDM%2FTOPSIS-6A5ACD?style=flat-square)
 
-**Cloud & BI/ETL**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+**Cloud, BI & Analytics**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Pentaho](https://img.shields.io/badge/-Pentaho-2B65A5?style=flat-square)
 
 **Software Engineering (secondary)**
@@ -79,11 +89,10 @@ languages: [Arabic (native), French (advanced), English (advanced)]
 
 <div align="center">
 
-**🎓 Al Alssone — School Payments Platform** · NestJS · ReactJS · MongoDB
-Designed a modular REST API and MongoDB data model to automate school fee management, demonstrating the ability to build robust backend systems for data processing.
+**🌊 Morocco Tensift Water Reliability Lakehouse & Data Warehouse** · Python · MinIO · dbt · PostgreSQL · Airflow · Streamlit
+End-to-end data platform monitoring reservoir reserves and climate metrics across the Tensift River Basin. Defensive ingestion with schema contracts and a quarantine DLQ, Medallion storage (Bronze / Silver / Gold in Parquet), a Kimball star schema built with dbt (22 data-quality tests), Airflow orchestration, and a Streamlit Hydrological Runway Simulator.
 
-[![Backend](https://github-readme-stats.vercel.app/api/pin/?username=adammoutik&repo=al-alssone-backend&theme=default&hide_border=true)](https://github.com/adammoutik/al-alssone-backend)
-[![Frontend](https://github-readme-stats.vercel.app/api/pin/?username=adammoutik&repo=al-alssone-frontend&theme=default&hide_border=true)](https://github.com/adammoutik/al-alssone-frontend)
+[![Morocco Water Lakehouse](https://github-readme-stats.vercel.app/api/pin/?username=adammoutik&repo=morocco-water-lakehouse&theme=default&hide_border=true)](https://github.com/adammoutik/morocco-water-lakehouse)
 
 </div>
 
@@ -96,16 +105,6 @@ Designed a modular REST API and MongoDB data model to automate school fee manage
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adammoutik&layout=compact&theme=default&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adammoutik&theme=default&hide_border=true" />
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/adammoutik/adammoutik/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 
 </div>
 
